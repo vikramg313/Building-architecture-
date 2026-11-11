@@ -1,0 +1,6 @@
+{
+  "name": "TradeSource",
+  "description": "Wholesale directory to explore verified global suppliers, manufacturers, and bulk products category-wise with MOQ, RFQ inquiries, and price calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
